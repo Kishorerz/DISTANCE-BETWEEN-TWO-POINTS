@@ -6,7 +6,7 @@ To write a python program to find the distance two 2 points
 ### Step 1: 
 ### Step 2: 
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](https://github.com/Kishorerz/DISTANCE-BETWEEN-TWO-POINTS/assets/144451216/d5c8c550-f92f-482e-af02-3b99968e969c)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
@@ -25,7 +25,7 @@ print('{:.2f}'.format(d))
 
 
 ### OUTPUT:
-![output](./Screenshot%202023-10-21%20072013.png)
+![output](https://github.com/Kishorerz/DISTANCE-BETWEEN-TWO-POINTS/assets/144451216/3d272c3a-5ed9-4d01-9b2e-600f7f7953df)
 
 
 ### RESULT:
