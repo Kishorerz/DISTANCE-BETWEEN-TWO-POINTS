@@ -29,4 +29,4 @@ print('{:.2f}'.format(d))
 
 
 ### RESULT:
-thus the distan are successfully executed
+thus the  DISTANCE-BETWEEN-TWO-POINT  are successfully executed
