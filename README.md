@@ -10,7 +10,7 @@ import math library from python
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](https://github.com/Kishorerz/DISTANCE-BETWEEN-TWO-POINTS/assets/144451216/d5c8c550-f92f-482e-af02-3b99968e969c)
 ### Step 4: 
-using math.sqet function 
+using math.sqrt function 
 ### Step 5: 
 end the program
 ### PROGRAM:
